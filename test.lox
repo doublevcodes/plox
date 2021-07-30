@@ -1,0 +1,12 @@
+a = 1 + 2 - 3.89
+
+for(i = 0; i <= 5; i + 1) {
+    print "string literal"
+    /* this
+    is a multiline comment
+    */
+}
+
+if a == "5" {
+    print "yay"
+}
